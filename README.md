@@ -1,3 +1,4 @@
+![Huffman Coding Flowchart](Flowchart.png)
 # Huffman Coding - Text Compression Algorithm
 
 ## 📌 Overview
