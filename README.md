@@ -18,7 +18,6 @@ This project implements **Huffman Coding**, a lossless data compression algorith
 | `output_decompressed.txt` | Decompressed output (matches input) |
 | `huffman_report.txt` | Console output log (tree, frequencies, codes) |
 | `Flowchart.png` | Algorithm flowchart |
-| `DSA PROJECT REPORT(FINALEE).pdf` | Complete project documentation |
 
 ## 🚀 How to Compile & Run
 ```bash
